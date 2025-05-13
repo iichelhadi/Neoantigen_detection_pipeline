@@ -131,6 +131,12 @@ If you use this pipeline in your research, please cite the following tools:
 - VEP: McLaren W, et al. (2016) The Ensembl Variant Effect Predictor
 - pVACtools: Hundal J, et al. (2020) pVACtools: a computational toolkit to identify and visualize cancer neoantigens
 
+## Citation
+
+If you use this pipeline in your research, please cite:
+
+Elhadi Iich. (2022). Neoantigen Detection Pipeline [Computer software]. https://github.com/iichelhadi/Neoantigen_detection_pipeline
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
