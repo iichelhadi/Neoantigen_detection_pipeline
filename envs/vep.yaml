@@ -1,0 +1,15 @@
+name: vep
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.6
+  - ensembl-vep>=103.0
+  - perl>=5.26.2
+  - perl-bioperl>=1.7.2
+  - perl-archive-zip
+  - perl-dbi
+  - perl-dbd-mysql
+  - perl-encode
+  - perl-bio-db-hts

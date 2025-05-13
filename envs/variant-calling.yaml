@@ -1,0 +1,11 @@
+name: variant-calling
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.6
+  - gatk4>=4.1.8.0
+  - samtools>=1.10
+  - bcftools>=1.10
+  - htslib>=1.10

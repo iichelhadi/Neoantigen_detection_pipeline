@@ -1,0 +1,3 @@
+patient_id	normal_sample	normal_rg	tumor_sample	tumor_rg	hla_a	hla_b	hla_c
+patient1	patient1_PBMC	PBMC_RG	patient1_T	T_RG	HLA-A*02:01,HLA-A*11:01	HLA-B*35:01,HLA-B*40:01	HLA-C*03:04,HLA-C*04:01
+patient2	patient2_PBMC	PBMC_RG	patient2_T	T_RG	HLA-A*01:01,HLA-A*24:02	HLA-B*07:02,HLA-B*08:01	HLA-C*07:01,HLA-C*07:02

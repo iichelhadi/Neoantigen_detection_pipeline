@@ -1,0 +1,15 @@
+name: pvactools
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.6
+  - pvactools>=2.0.0
+  - networkx
+  - pandas
+  - pytest
+  - mhcflurry
+  - mhcnuggets
+  - requests
+  - tensorflow<2.0

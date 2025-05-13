@@ -1,0 +1,17 @@
+name: alignment
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.6
+  - fastqc
+  - trimgalore
+  - bwa
+  - samtools>=1.10
+  - picard>=2.23.0
+  - gatk4>=4.1.8.0
+  - hisat2>=2.2.0
+  - stringtie>=2.1.4
+  - featurecounts>=2.0.1
+  - multiqc>=1.9
