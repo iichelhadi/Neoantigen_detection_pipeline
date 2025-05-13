@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2022 Elhadi Iich
+# Licensed under the MIT License - see the LICENSE file in the root directory for details
+
 # submit_pipeline.sh - Submit pipeline jobs to a cluster scheduler
 # This script creates and submits job files for running the pipeline on an HPC cluster
 

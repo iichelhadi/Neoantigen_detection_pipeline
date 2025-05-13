@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2022 Elhadi Iich
+# Licensed under the MIT License - see the LICENSE file in the root directory for details
+
 # 06_variant_annotation.sh - Annotate variants with VEP
 # This script annotates VCF files using Ensembl's Variant Effect Predictor
 

@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2022 Elhadi Iich
+# Licensed under the MIT License - see the LICENSE file in the root directory for details
+
 # run_pipeline.sh - Master script to run the complete neoantigen discovery pipeline
 # This script orchestrates the execution of all pipeline steps
 

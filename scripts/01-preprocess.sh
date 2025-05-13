@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2022 Elhadi Iich
+# Licensed under the MIT License - see the LICENSE file in the root directory for details
+
 # 01_preprocess.sh - Quality control and preprocessing of raw FASTQ files
 # This script performs adapter trimming and quality filtering using TrimGalore
 # and generates QC reports using FastQC

@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2022 Elhadi Iich
+# Licensed under the MIT License - see the LICENSE file in the root directory for details
+
 # 02_dna_alignment.sh - Alignment of DNA/WES data to reference genome
 # This script performs BWA-MEM alignment, marks duplicates, and generates BAM files
 

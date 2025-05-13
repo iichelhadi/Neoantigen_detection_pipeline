@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2022 Elhadi Iich
+# Licensed under the MIT License - see the LICENSE file in the root directory for details
+
 # check_dependencies.sh - Check if all required dependencies are installed
 # This script verifies that the required tools and resources are available
 

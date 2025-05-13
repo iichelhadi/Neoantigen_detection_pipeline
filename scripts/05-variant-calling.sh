@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2022 Elhadi Iich
+# Licensed under the MIT License - see the LICENSE file in the root directory for details
+
 # 05_variant_calling.sh - Somatic variant calling
 # This script performs somatic variant calling using GATK Mutect2
 

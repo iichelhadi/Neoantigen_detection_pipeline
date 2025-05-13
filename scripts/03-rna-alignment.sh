@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2022 Elhadi Iich
+# Licensed under the MIT License - see the LICENSE file in the root directory for details
+
 # 03_rna_alignment.sh - Alignment of RNA-seq data to reference genome
 # This script performs RNA-seq alignment with HISAT2 and generates gene counts
 

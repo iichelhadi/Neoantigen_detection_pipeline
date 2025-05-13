@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2022 Elhadi Iich
+# Licensed under the MIT License - see the LICENSE file in the root directory for details
+
 # 07_neoantigen_prediction.sh - Predict neoantigens using pVACtools
 # This script uses pVACseq to predict neoantigens from VEP-annotated VCFs
 

@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2022 Elhadi Iich
+# Licensed under the MIT License - see the LICENSE file in the root directory for details
+
 # 04_hla_typing.sh - HLA typing using OptiType
 # This script performs HLA typing from preprocessed fastq files
 
