@@ -97,7 +97,20 @@ The pipeline generates the following output directories:
 - `vcf_files_annotated/`: Annotated variants
 - `pvacseq/`: Neoantigen predictions
 
+<<<<<<< HEAD
 For detailed information about running the pipeline and interpreting results, see the [Usage Guide](docs/usage.md).
+=======
+## References
+
+If you use this pipeline in your research, please cite the following tools:
+
+- [TrimGalore](https://github.com/FelixKrueger/TrimGalore)
+- BWA-MEM: Li H. (2013) Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM
+- GATK: McKenna A, et al. (2010) The Genome Analysis Toolkit: A MapReduce framework for analyzing next-generation DNA sequencing data
+- OptiType: Szolek A, et al. (2014) OptiType: precision HLA typing from next-generation sequencing data
+- VEP: McLaren W, et al. (2016) The Ensembl Variant Effect Predictor
+- pVACtools: Hundal J, et al. (2020) pVACtools: a computational toolkit to identify and visualize cancer neoantigens
+>>>>>>> 3e9b13110389cfed40cd07459da134d3b8cb1c67
 
 ## Citation
 
