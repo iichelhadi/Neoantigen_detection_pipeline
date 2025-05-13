@@ -124,7 +124,7 @@ The pipeline generates the following output directories:
 
 If you use this pipeline in your research, please cite the following tools:
 
-- TrimGalore: [[citation]](https://github.com/FelixKrueger/TrimGalore)
+- [[TrimGalore]](https://github.com/FelixKrueger/TrimGalore)
 - BWA-MEM: Li H. (2013) Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM
 - GATK: McKenna A, et al. (2010) The Genome Analysis Toolkit: A MapReduce framework for analyzing next-generation DNA sequencing data
 - OptiType: Szolek A, et al. (2014) OptiType: precision HLA typing from next-generation sequencing data
